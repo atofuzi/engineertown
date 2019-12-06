@@ -1,0 +1,1169 @@
+[09-Nov-2019 07:45:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:45:49 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 07:45:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:45:49 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 07:45:49 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sample.mp4
+            [type] => video/mp4
+            [tmp_name] => /Applications/MAMP/tmp/php/php83wGvy
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 07:47:22 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：動画の種類は
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => .
+    [basename] => sample.mp4
+    [extension] => mp4
+    [filename] => sample
+)
+
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：ハッシュ後のファイル名は074238ff3503f032f9852974c7b7290727e48afebb64c37294ebc8c5d7e02965
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：クエリ成功
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：「　処理終了　
+[09-Nov-2019 07:47:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sample.mp4
+            [type] => video/mp4
+            [tmp_name] => /Applications/MAMP/tmp/php/phpm2Rpjs
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：動画の種類は
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => .
+    [basename] => sample.mp4
+    [extension] => mp4
+    [filename] => sample
+)
+
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：ハッシュ後のファイル名はd97c869aa1c3a06fc90347a35ad913b78e7b0b5073d819290bd7badba41146d8
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：クエリ成功
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：「　処理終了　
+[09-Nov-2019 07:48:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sample.mp4
+            [type] => video/mp4
+            [tmp_name] => /Applications/MAMP/tmp/php/php4R8gGW
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：動画の種類は
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 07:59:32 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => /Applications/MAMP/tmp/php
+    [basename] => php4R8gGW
+    [filename] => php4R8gGW
+)
+
+[09-Nov-2019 07:59:32 Asia/Tokyo] PHP Notice:  Undefined index: extension in /Applications/MAMP/htdocs/engineerbox/test.php on line 83
+[09-Nov-2019 07:59:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:59:50 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 07:59:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 07:59:50 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 07:59:50 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => IMG_4305.mov
+            [type] => video/quicktime
+            [tmp_name] => /Applications/MAMP/tmp/php/phpcYqSXd
+            [error] => 0
+            [size] => 7670333
+        )
+
+)
+
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：動画の種類は
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 08:00:02 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => /Applications/MAMP/tmp/php
+    [basename] => phpcYqSXd
+    [filename] => phpcYqSXd
+)
+
+[09-Nov-2019 08:00:02 Asia/Tokyo] PHP Notice:  Undefined index: extension in /Applications/MAMP/htdocs/engineerbox/test.php on line 83
+[09-Nov-2019 08:11:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:11:45 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:11:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:11:45 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:11:45 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[09-Nov-2019 08:11:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:11:51 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:11:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:11:51 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:11:51 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sample.mp4
+            [type] => video/mp4
+            [tmp_name] => /Applications/MAMP/tmp/php/phpDe1OIy
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 08:11:51 Asia/Tokyo] デバッグ：動画の種類は
+[09-Nov-2019 08:11:52 Asia/Tokyo] デバッグ：video/mp4
+[09-Nov-2019 08:11:52 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 08:11:52 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => /Applications/MAMP/tmp/php
+    [basename] => phpDe1OIy
+    [filename] => phpDe1OIy
+)
+
+[09-Nov-2019 08:11:52 Asia/Tokyo] PHP Notice:  Undefined index: extension in /Applications/MAMP/htdocs/engineerbox/test.php on line 91
+[09-Nov-2019 08:14:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:14:02 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:14:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:14:02 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:14:02 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sampleのコピー.mp3
+            [type] => audio/mp3
+            [tmp_name] => /Applications/MAMP/tmp/php/phpTR5TPH
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：動画の種類は
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：video/mp4
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 08:14:19 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => /Applications/MAMP/tmp/php
+    [basename] => phpTR5TPH
+    [filename] => phpTR5TPH
+)
+
+[09-Nov-2019 08:14:19 Asia/Tokyo] PHP Notice:  Undefined index: extension in /Applications/MAMP/htdocs/engineerbox/test.php on line 91
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sampleのコピー.mp3
+            [type] => audio/mp3
+            [tmp_name] => /Applications/MAMP/tmp/php/phpLIIKbh
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：video/mp4
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：$img_extension
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 08:22:55 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => /Applications/MAMP/tmp/php
+    [basename] => phpLIIKbh
+    [filename] => phpLIIKbh
+)
+
+[09-Nov-2019 08:22:55 Asia/Tokyo] PHP Notice:  Undefined index: extension in /Applications/MAMP/htdocs/engineerbox/test.php on line 99
+[09-Nov-2019 08:23:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:23:01 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:23:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:23:01 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:23:01 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[09-Nov-2019 08:23:01 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[09-Nov-2019 08:23:01 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[09-Nov-2019 08:23:01 Asia/Tokyo] デバッグ：
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sample.mp4
+            [type] => video/mp4
+            [tmp_name] => /Applications/MAMP/tmp/php/phpeuXxEf
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：video/mp4
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：$img_extension
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 08:24:00 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => /Applications/MAMP/tmp/php
+    [basename] => phpeuXxEf
+    [filename] => phpeuXxEf
+)
+
+[09-Nov-2019 08:24:00 Asia/Tokyo] PHP Notice:  Undefined index: extension in /Applications/MAMP/htdocs/engineerbox/test.php on line 99
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：「　テスト　
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => sample.mp4
+            [type] => video/mp4
+            [tmp_name] => /Applications/MAMP/tmp/php/phpuWFs3b
+            [error] => 0
+            [size] => 2512783
+        )
+
+)
+
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：video/mp4
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：mp4
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：動画のバイナリデータ
+[09-Nov-2019 08:24:47 Asia/Tokyo] デバッグ：拡張子はArray
+(
+    [dirname] => /Applications/MAMP/tmp/php
+    [basename] => phpuWFs3b
+    [filename] => phpuWFs3b
+)
+
+[09-Nov-2019 08:24:47 Asia/Tokyo] PHP Notice:  Undefined index: extension in /Applications/MAMP/htdocs/engineerbox/test.php on line 99
+[13-Nov-2019 01:27:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:06 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:27:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:06 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:27:06 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:27:06 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:27:06 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:27:06 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:27:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:11 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:27:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:11 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:27:11 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:27:11 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:27:11 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:27:11 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:27:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:13 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:27:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:13 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:27:13 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 01:27:13 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:27:13 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:27:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:14 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:27:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:27:14 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:27:14 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 01:27:14 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:27:14 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:30:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:30:58 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:30:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:30:58 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:30:58 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:30:58 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:30:58 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:30:58 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:31:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:31:10 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:31:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:31:10 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:31:10 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:31:10 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:31:10 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:31:10 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:32:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:32:42 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:32:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:32:42 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:32:42 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:32:42 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:32:42 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:32:42 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:32:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:32:47 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:32:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:32:47 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:32:47 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:32:47 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:32:47 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:32:47 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:32:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:32:52 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:32:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:32:52 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:32:52 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:32:52 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:32:52 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:32:52 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:33:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:33:57 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:33:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:33:57 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:33:57 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:33:57 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:33:57 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:33:57 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:34:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:34:50 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:34:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:34:50 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:34:50 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:34:50 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:34:50 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:34:50 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:34:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:34:51 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:34:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:34:51 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:34:51 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:34:51 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:34:51 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:34:51 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:34:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:34:53 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:34:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:34:53 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:34:53 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:34:53 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:34:53 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:34:53 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:35:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:35:12 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:35:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:35:12 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:35:12 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:35:12 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:35:12 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:35:12 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:35:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:35:40 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:35:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:35:40 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:35:40 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:35:40 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:35:40 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:35:40 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:38:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:38:11 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:38:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:38:11 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:38:11 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:38:11 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:38:11 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:38:11 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:38:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:38:32 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:38:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:38:32 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:38:32 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:38:32 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:38:32 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:38:32 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:39:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:39:23 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:39:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:39:23 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:39:23 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:39:23 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:39:23 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:39:23 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:40:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:40:02 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:40:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:40:02 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:40:02 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:40:02 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:40:02 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:40:02 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:41:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:41:06 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:41:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:41:06 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:41:06 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:41:06 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:41:06 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:41:06 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:41:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:41:51 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:41:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:41:51 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:41:51 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:41:51 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:41:51 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:41:51 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:42:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:42:13 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:42:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:42:13 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:42:13 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:42:13 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:42:13 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:42:13 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:42:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:42:38 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:42:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:42:38 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:42:38 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 01:42:38 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 01:42:38 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:42:38 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:42:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:42:44 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:42:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:42:44 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:42:44 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 01:42:44 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:42:44 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:43:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:43:29 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:43:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:43:29 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:43:29 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 01:43:29 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:43:29 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:43:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:43:57 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:43:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:43:57 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:43:57 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 01:43:57 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:43:57 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:44:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:44:21 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:44:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:44:21 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:44:21 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 01:44:21 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:44:21 Asia/Tokyo] デバッグ：
+[13-Nov-2019 01:45:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:45:51 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 01:45:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 01:45:51 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 01:45:51 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 01:45:51 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 01:45:51 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:02:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:02:30 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:02:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:02:30 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:02:30 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+    [movie] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[13-Nov-2019 21:02:30 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 21:02:30 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:06:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:06:36 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:06:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:06:36 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:06:36 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:06:36 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 71
+[13-Nov-2019 21:06:36 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 74
+[13-Nov-2019 21:06:36 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:08:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:08:32 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:08:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:08:32 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:08:32 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:08:32 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:08:32 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:08:32 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:09:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:09:57 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:09:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:09:57 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:09:57 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:09:57 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:09:57 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:09:57 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:11:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:11:53 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:11:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:11:53 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:11:53 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:11:53 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:11:53 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:11:53 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:17:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:17:10 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:17:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:17:10 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:17:10 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:17:10 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:17:10 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:17:10 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:21:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:21:55 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:21:55 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:21:55 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:21:55 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:21:55 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:21:55 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:21:55 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:23:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:23:10 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:23:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:23:10 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:23:10 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:23:10 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:23:10 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:23:10 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:25:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:14 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:25:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:14 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:25:14 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:25:14 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:25:14 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:25:14 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:25:18 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:25:18 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:25:18 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:25:18 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:25:18 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:25:18 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:25:18 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:25:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:19 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:25:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:19 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:25:19 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:25:19 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:25:19 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:25:19 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:25:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:23 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:25:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:23 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:25:23 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:25:23 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:25:23 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:25:23 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:25:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:28 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:25:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:25:28 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:25:28 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:25:28 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:25:28 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:25:28 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:35:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:35:03 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:35:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:35:03 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:35:03 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:35:03 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:35:03 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:35:03 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:35:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:35:37 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:35:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:35:37 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:35:37 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:35:37 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:35:37 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:35:37 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:35:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:35:58 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:35:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:35:58 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:35:58 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:35:58 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:35:58 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:35:58 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:36:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:36:38 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:36:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:36:38 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:36:38 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:36:38 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:36:38 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:36:38 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:37:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:37:23 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:37:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:37:23 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:37:23 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:37:23 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:37:23 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:37:23 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:38:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:38:28 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:38:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:38:28 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:38:28 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:38:28 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:38:28 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:38:28 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:38:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:38:29 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:38:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:38:29 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:38:29 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:38:29 Asia/Tokyo] PHP Notice:  Undefined index: movie in /Applications/MAMP/htdocs/engineerbox/test.php on line 72
+[13-Nov-2019 21:38:29 Asia/Tokyo] PHP Warning:  finfo::file(): Empty filename or path in /Applications/MAMP/htdocs/engineerbox/test.php on line 75
+[13-Nov-2019 21:38:29 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:40:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:40:30 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:40:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:40:30 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:40:30 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:40:30 Asia/Tokyo] PHP Notice:  Undefined variable: mime_type in /Applications/MAMP/htdocs/engineerbox/test.php on line 76
+[13-Nov-2019 21:40:30 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:40:30 Asia/Tokyo] PHP Notice:  Undefined variable: mime_type in /Applications/MAMP/htdocs/engineerbox/test.php on line 86
+[13-Nov-2019 21:40:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:40:57 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:40:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:40:57 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:40:57 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:40:57 Asia/Tokyo] PHP Notice:  Undefined variable: mime_type in /Applications/MAMP/htdocs/engineerbox/test.php on line 76
+[13-Nov-2019 21:40:57 Asia/Tokyo] デバッグ：
+[13-Nov-2019 21:40:57 Asia/Tokyo] PHP Notice:  Undefined variable: mime_type in /Applications/MAMP/htdocs/engineerbox/test.php on line 86
+[13-Nov-2019 21:41:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:41:08 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:41:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:41:08 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:41:08 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:41:08 Asia/Tokyo] PHP Notice:  Undefined variable: mime_type in /Applications/MAMP/htdocs/engineerbox/test.php on line 86
+[13-Nov-2019 21:41:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:41:58 Asia/Tokyo] デバッグ：「　テスト　
+[13-Nov-2019 21:41:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[13-Nov-2019 21:41:58 Asia/Tokyo] デバッグ：ポスト情報Array
+(
+)
+
+[13-Nov-2019 21:41:58 Asia/Tokyo] デバッグ：ファイル情報Array
+(
+)
+
+[13-Nov-2019 21:41:58 Asia/Tokyo] PHP Notice:  Undefined variable: mime_type in /Applications/MAMP/htdocs/engineerbox/test.php on line 86
