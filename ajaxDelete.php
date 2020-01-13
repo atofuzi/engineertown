@@ -32,4 +32,3 @@ if(isset($_POST['delete_id']) && isset($_SESSION['user_id']) && isLogin()){
 }
 
 debug('Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
-?>

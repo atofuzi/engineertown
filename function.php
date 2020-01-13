@@ -1183,4 +1183,3 @@ function getSessionFlash($key){
   }
 
 
-?>

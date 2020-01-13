@@ -79,4 +79,3 @@ if(isset($_POST['op_id']) && isset($_SESSION['user_id']) && isLogin()){
 }
 
 debug('Ajax処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
-?>
