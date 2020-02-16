@@ -103,6 +103,7 @@ if(!empty($_POST)){
             <section id="form">
                 <form action="" method="post" class="form">
                     <div class="form-wrap" >
+                    <p>あ</p>
                       <div class="name-area">  
                         <p class="<?php if(!empty($err_msg['name'])) echo "err-msg"?>"><?php if(!empty($err_msg['name'])) echo $err_msg['name'];?></p>
                         <input type="text" name="name" value="<?php if(!empty($_POST)) echo $_POST['name'] ?>" placeholder="ニックネームを入力"  class="first-input <?php if(!empty($err_msg['name'])) echo "err-input"?>" style="<?php if(!empty($err_msg['name'])) echo "margin-top:0px;"?>">
